@@ -66,9 +66,9 @@ print(Y_pred)
 
 ![image](https://github.com/user-attachments/assets/6ccaa986-dbf1-42e8-a5ae-49c7d1e5bae1)
 
-![image](https://github.com/user-attachments/assets/3ff7e902-2aea-4811-8789-30dcea8c14a5)
+![Screenshot (115)](https://github.com/user-attachments/assets/0778043c-a7b1-41c4-8978-29d37777ac37)
 
-![image](https://github.com/user-attachments/assets/43a152f1-692c-4dfb-8f31-3884289fc2eb)
+![Screenshot 2025-03-25 210426](https://github.com/user-attachments/assets/f0374aad-f57a-4c4d-8ecd-086f7ae5c863)
 
 
 ## Result:
